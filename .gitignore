@@ -1,2 +1,8 @@
+results/email.txt
+results/login.txt
+results/wam.txt
+results/status.txt
+results/constants.py
+results/phantomjs
 **/*.pyc
 **/*.log
